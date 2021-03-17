@@ -53,7 +53,7 @@ def sqrt(x,y):
 #sqrt(5,-3)
 
 #C
-def Calculate (x):
+def calculate (x):
     num = exponent(x)*XtimesY(7,x)*(1/x)*sqrt(x,x)
     num =float('%0.6f' % num)
     return num
