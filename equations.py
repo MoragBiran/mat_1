@@ -57,4 +57,3 @@ def Calculate (x):
     num = exponent(x)*XtimesY(7,x)*(1/x)*sqrt(x,x)
     num =float('%0.6f' % num)
     return num
-Calculate(9)
